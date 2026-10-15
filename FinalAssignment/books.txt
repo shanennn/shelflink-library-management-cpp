@@ -1,0 +1,63 @@
+1001
+story
+chris
+12344
+article
+1
+0
+1002
+System Programming
+Peter Johnson
+979-8896650829
+Non-Fiction
+5
+2
+1003
+Database Design
+Ishwarya M.V.
+978-6204953458
+Database
+3
+3
+1004
+C++ Basics
+John Smith
+9780131103627
+Programming
+5
+5
+1005
+Clean Code
+Robert Martin
+9780132350884
+Software
+4
+4
+1006
+Networking Basics
+Andrew Lim
+9781118093757
+Networking
+4
+4
+1007
+Web Development
+Sarah Lee
+9781491918661
+Web
+6
+6
+1008
+Data Structures
+Michael Chen
+9780262033848
+Computer Science
+5
+5
+1009
+Cyber Security
+Nur Aisyah
+9781119367680
+Security
+3
+3
